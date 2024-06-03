@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning Golang, Rust, and Haskell
 - 📫 How to reach me: https://shamme.rs
 - 😄 Pronouns: I do not wish to be perceived
-- ⚡ Fun fact: I'm not actually a dog IRL
+- 🗑️ I use all operating systems and hate them all equally in different ways
+- ☢️ I entered STEM specifically to punish computers
+- ⚡ Fun fact: I'm not actually a dog IRL probably
 - ⚡ Another fun fact: I hate doing front-end web development. A lot.
 
 <!---
