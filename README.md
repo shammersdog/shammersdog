@@ -1,5 +1,7 @@
 "AI" is garbage.
 
+I've largedly moved to [Codeberg](https://codeberg.org/shammersdog) because Microsoft is ruining everything with record speed.
+
 <!---
 shammersdog/shammersdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
